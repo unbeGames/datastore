@@ -1,0 +1,16 @@
+{
+    "name": "com.unbegames.datastore",
+    "rootNamespace": "Unbegames.Services",
+    "references": [
+        "com.unbegames.utilities"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

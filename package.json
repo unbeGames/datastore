@@ -1,0 +1,17 @@
+{
+  "name": "com.unbegames.datastore",
+  "version": "1.0.0",
+  "displayName": "Unbegames Data Store",
+  "description": "A set of utilities that wrap System.IO",
+  "unity": "2020.1",
+  "dependencies": {},
+  "keywords": [
+    "datastore"
+  ],
+  "author": {
+    "name": "unbeGames",
+    "email": "arugin@unbegames.com",
+    "url": "https://store.steampowered.com/publisher/unbegames"
+  },
+  "type": "library"
+}
